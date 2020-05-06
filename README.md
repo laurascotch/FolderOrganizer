@@ -16,4 +16,5 @@ Python script that organizes the content of a folder
 Just edit the code at lines `49-52` and `54-58` with your paths of interest.
 
 ### To do
-Implement some way of adding and editing shortcuts without modifying the code.
+- Implement some way of adding and editing shortcuts without modifying the code.
+- Nice GUI.
